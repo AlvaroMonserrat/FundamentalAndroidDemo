@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FundamentalAndroidDemo</string>
+    <string name="linearlayout">LinearLayout</string>
+    <string name="relativelayout">RelativeLayout</string>
+    <string name="constraintlayout">ConstraintLayout</string>
+    <string name="framelayout">FrameLayout</string>
+    <string name="loginscreen">LoginScreen</string>
+    <string name="listview">ListView</string>
+    <string name="recyclerview">RecyclerView</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="email">Email</string>
+</resources>
